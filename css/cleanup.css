@@ -19,6 +19,6 @@
   display: none;
 }
 
-div + div div[id="tag-6"] {
+#wall div + div div[id="tag-6"] {
   display: none;
 }
