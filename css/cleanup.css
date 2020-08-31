@@ -15,9 +15,14 @@
   display: none;
 }
 
+#wall div[class="parent"] #tag-5 { 
+  display: none;
+
 #wall div +.parent div div #tag-6 {
   display: none;
 }
+
+
 
 </head>
 <body>
