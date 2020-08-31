@@ -18,7 +18,7 @@
 #wall div[class="parent"] #tag-5 { 
   display: none;
 
-#wall div div + div #tag-6 {
+#wall div[class"parent"]{
   display: none;
 }
 
